@@ -1,3 +1,3 @@
 #Sample
 git stash test
-web add this line
+web and client agree to add this line
